@@ -1,0 +1,2 @@
+- import_playbook: create-instances.yaml
+- import_playbook: inmemory_inventory.yaml
